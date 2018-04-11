@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  dev-profile
 //
-//  Created by User on 10.04.2018.
-//  Copyright © 2018 MPTechnologies. All rights reserved.
+//  Created by Mark Price on 6/16/17.
+//  Copyright © 2017 Devslopes. All rights reserved.
 //
 
 import UIKit
